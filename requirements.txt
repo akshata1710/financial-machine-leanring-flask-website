@@ -1,5 +1,5 @@
 Flask==2.2.2
 pickleshare==0.7.5
-json==0.9.11
+json5==0.9.11
 numpy==1.23.1
 pandas==1.4.3
